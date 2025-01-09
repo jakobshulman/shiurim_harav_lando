@@ -4,7 +4,7 @@ import LoadingSpinner from "./components/LoadingSpinner";
 import { useFetchData } from "./hooks/useFetchData";
 
 const App = () => {
-    const { data, loading, error } = useFetchData("https://pdf-viewer-1dxg.onrender.com/api/drive/files");
+    const { data, loading, error } = useFetchData("https://pdf-viewer-1.onrender.com/api/drive/files");
 
     if (loading) return <LoadingSpinner />;
     if (error) return <div>Error: {error}</div>;
