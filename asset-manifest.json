@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/shiurim_harav_lando/static/js/main.ac9bff9a.js",
+    "main.js": "/shiurim_harav_lando/static/js/main.f90c6f92.js",
     "index.html": "/shiurim_harav_lando/index.html",
-    "main.ac9bff9a.js.map": "/shiurim_harav_lando/static/js/main.ac9bff9a.js.map"
+    "main.f90c6f92.js.map": "/shiurim_harav_lando/static/js/main.f90c6f92.js.map"
   },
   "entrypoints": [
-    "static/js/main.ac9bff9a.js"
+    "static/js/main.f90c6f92.js"
   ]
 }
